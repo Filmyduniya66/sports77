@@ -27,8 +27,7 @@ https://streamflexsmm.in/Sflex-Jio/302085/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts608" tvg-name="Zee Tamil HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_7022fe5b-89a2-4cca-a9d0-58e46baa6d5c.png" group-title="Entertainment", Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://premiumplug.fun/zee/zee5.php/0-9-zeetamil.m3u8
+https://premiumplugx.me/jee/zee5.php/0-9-zeetamil.m3u8
 
 #EXTINF:-1 tvg-id="ts674" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Entertainment",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,12 +47,11 @@ https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.m
 
 #EXTINF:-1 tvg-id="ts1182" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai_HD.png",Zee Thirai HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.zee5.com
 https://premiumplug.fun/zee/zee5.php/0-9-224.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTamil.sg" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-360/channel_list/360x2031c866f9b15d44e38b077973e3ab37e89",Zee Tamil HD APAC
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-https://premiumplug.fun/zee/zee5.php/0-9-360.m3u8
+https://premiumplugx.me/jee/zee5.php/0-9-360.m3u8
 
 
 ============================== JIOTV ============================================
@@ -442,9 +440,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_MOB/WDVLive/index.mpd?__h
 https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1790058608~exp=1790080208~acl=/*~hmac=d0a79101d33c31f3add0aa52edba44ea1f9150b3d3bd956ee5448279c4359509
 
 #EXTINF:-1 tvg-id="2948" group-title="Infotainment" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeZestHD_Thumbnail_3896179b-ce59-4e5e-aada-4d7a4160e25a.png",Zee Zest HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.zee5.com
-https://liveserverayush.onrender.com/0-9-348.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/4wxhf2/Jtv.mpd?id=2757
 
 # >>> JIO_AUTO_END
 
@@ -715,7 +714,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=3037&deviceMac=00:1A:79:0A:3B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0 
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" group-title="Sports", Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" group-title="Sports",Sky Sports Cricket
 http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="foxcricket.in" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="Sports",Fox Sports 501 HD
@@ -731,7 +730,7 @@ http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302016.ts
 
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/South_Africa/SuperSportCricket.za.png" group-title="Sports",Supersport Cricket
-http://dedimain.com:80/live/Soft7Diet/3bDU8XAKCo/115338.ts
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/317.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports
 http://103.185.24.134:3001/TSportsHD/index.m3u8
 
@@ -2903,14 +2902,13 @@ http://ott.kootv.us:80/live/68f7ea57062a0/5a94367bb1/741446.ts
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/HIMYM" group-title="Premium 24/7", How I Met Your Mother
 http://proxpanel.cc:80/h1wqD6CY/byxHYgX/102162
 #EXTINF:-1 tvg-id="" tvg-name="24.7.Dummy.us" tvg-logo="http://68.235.35.107:25461/logos/80ef8369e565220df706b0bbb7b43ada.png" group-title="Premium 24/7",The Big Bang Theory
-http://alasadino.com:80/live/5b75ae16e9/85e8f17616b3/741457.ts
+https://nubexplay.com:8443/play/t25EVMXqzTdqgZ-uxjREasqxSBzF-MSlqv9lhAxU_D2XfaZXl_Y_WhusW-3zUZjI
 #EXTINF:-1 tvg-name="24.7.Dummy.us" tvg-logo="http://68.235.35.107:25461/logos/93c3b2b46ece7baafe13ddbf51cc7c8a.png" group-title="Premium 24/7",Two And a Half Men
-http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/621205.m3u8
+http://proxpanel.fans:80/Jackie1/Jackie1/101876
 #EXTINF:-1 tvg-name="24.7.Dummy.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Superstore_%28Universal_Television_sitcom%29.svg/3840px-Superstore_%28Universal_Television_sitcom%29.svg.png" group-title="Premium 24/7",Superstore
 http://supiptv.vip:8080/104133355695997b/Ek8eQeo6fU/174845
-
 #EXTINF:-1 tvg-name="24.7.Dummy.us" tvg-logo="https://i.ibb.co/f8Sc1h6/Sin-t-tulo-1.png" group-title="Premium 24/7",Malcolm in the Middle
-http://alasadino.com:80/live/5b75ae16e9/85e8f17616b3/741440.m3u8
+http://proxpanel.fans:80/Jackie1/Jackie1/85368
 
 #EXTINF:-1 tvg-id="OnePiece.pluto" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Premium 24/7",One Piece
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
