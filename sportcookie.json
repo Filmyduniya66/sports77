@@ -1,8 +1,8 @@
 {
   "total_channels": 36,
-  "successful_channels": 36,
-  "failed_channels": 0,
-  "timestamp": "2026-09-22 13:11:03",
+  "successful_channels": 35,
+  "failed_channels": 1,
+  "timestamp": "2026-09-22 14:13:13",
   "successful_results": [
     {
       "channel_id": "146",
@@ -197,14 +197,6 @@
       "playlist_data": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n\txmlns=\"urn:mpeg:dash:schema:mpd:2011\"\n\txmlns:xlink=\"http://www.w3.org/1999/xlink\"\n\txsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd\"\n\tprofiles=\"urn:mpeg:dash:profile:isoff-live:2011\"\n\ttype=\"static\"\n\tmediaPresentationDuration=\"PT28.0S\"\n\tmaxSegmentDuration=\"PT5.0S\"\n\tminBufferTime=\"PT10.0S\">\n\t<ProgramInformation>\n\t</ProgramInformation>\n\t<ServiceDescription id=\"0\">\n\t</ServiceDescription>\n\t<Period id=\"0\" start=\"PT0.0S\">\n\t\t<AdaptationSet id=\"0\" contentType=\"video\" startWithSAP=\"1\" segmentAlignment=\"true\" bitstreamSwitching=\"true\" frameRate=\"105125/1752\" maxWidth=\"1920\" maxHeight=\"1080\" par=\"16:9\" lang=\"eng\">\n\t\t\t<Representation id=\"0\" mimeType=\"video/mp4\" codecs=\"avc1.64002a\" bandwidth=\"6012586\" width=\"1920\" height=\"1080\" sar=\"1:1\">\n\t\t\t\t<SegmentTemplate timescale=\"16000\" initialization=\"init-stream$RepresentationID$.m4s\" media=\"chunk-stream$RepresentationID$-$Number%05d$.m4s\" startNumber=\"1\">\n\t\t\t\t\t<SegmentTimeline>\n\t\t\t\t\t\t<S t=\"0\" d=\"79984\" />\n\t\t\t\t\t\t<S d=\"80000\" r=\"3\" />\n\t\t\t\t\t\t<S d=\"48528\" />\n\t\t\t\t\t</SegmentTimeline>\n\t\t\t\t</SegmentTemplate>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t\t<AdaptationSet id=\"1\" contentType=\"audio\" startWithSAP=\"1\" segmentAlignment=\"true\" bitstreamSwitching=\"true\" lang=\"eng\">\n\t\t\t<Representation id=\"1\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" bandwidth=\"131297\" audioSamplingRate=\"44100\">\n\t\t\t\t<AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\" />\n\t\t\t\t<SegmentTemplate timescale=\"44100\" initialization=\"init-stream$RepresentationID$.m4s\" media=\"chunk-stream$RepresentationID$-$Number%05d$.m4s\" startNumber=\"1\">\n\t\t\t\t\t<SegmentTimeline>\n\t\t\t\t\t\t<S t=\"0\" d=\"221153\" />\n\t\t\t\t\t\t<S d=\"220160\" />\n\t\t\t\t\t\t<S d=\"221184\" />\n\t\t\t\t\t\t<S d=\"220160\" r=\"1\" />\n\t\t\t\t\t\t<S d=\"133120\" />\n\t\t\t\t\t</SegmentTimeline>\n\t\t\t\t</SegmentTemplate>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
     },
     {
-      "channel_id": "1985",
-      "channel_name": "Star Sports 2 Hindi",
-      "status": "success",
-      "http_code": 200,
-      "final_url": "https://denverisalive.github.io/Intro/manifest/token/token_expired.mpd",
-      "playlist_data": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n\txmlns=\"urn:mpeg:dash:schema:mpd:2011\"\n\txmlns:xlink=\"http://www.w3.org/1999/xlink\"\n\txsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd\"\n\tprofiles=\"urn:mpeg:dash:profile:isoff-live:2011\"\n\ttype=\"static\"\n\tmediaPresentationDuration=\"PT28.0S\"\n\tmaxSegmentDuration=\"PT5.0S\"\n\tminBufferTime=\"PT10.0S\">\n\t<ProgramInformation>\n\t</ProgramInformation>\n\t<ServiceDescription id=\"0\">\n\t</ServiceDescription>\n\t<Period id=\"0\" start=\"PT0.0S\">\n\t\t<AdaptationSet id=\"0\" contentType=\"video\" startWithSAP=\"1\" segmentAlignment=\"true\" bitstreamSwitching=\"true\" frameRate=\"105125/1752\" maxWidth=\"1920\" maxHeight=\"1080\" par=\"16:9\" lang=\"eng\">\n\t\t\t<Representation id=\"0\" mimeType=\"video/mp4\" codecs=\"avc1.64002a\" bandwidth=\"6012586\" width=\"1920\" height=\"1080\" sar=\"1:1\">\n\t\t\t\t<SegmentTemplate timescale=\"16000\" initialization=\"init-stream$RepresentationID$.m4s\" media=\"chunk-stream$RepresentationID$-$Number%05d$.m4s\" startNumber=\"1\">\n\t\t\t\t\t<SegmentTimeline>\n\t\t\t\t\t\t<S t=\"0\" d=\"79984\" />\n\t\t\t\t\t\t<S d=\"80000\" r=\"3\" />\n\t\t\t\t\t\t<S d=\"48528\" />\n\t\t\t\t\t</SegmentTimeline>\n\t\t\t\t</SegmentTemplate>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t\t<AdaptationSet id=\"1\" contentType=\"audio\" startWithSAP=\"1\" segmentAlignment=\"true\" bitstreamSwitching=\"true\" lang=\"eng\">\n\t\t\t<Representation id=\"1\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" bandwidth=\"131297\" audioSamplingRate=\"44100\">\n\t\t\t\t<AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\" />\n\t\t\t\t<SegmentTemplate timescale=\"44100\" initialization=\"init-stream$RepresentationID$.m4s\" media=\"chunk-stream$RepresentationID$-$Number%05d$.m4s\" startNumber=\"1\">\n\t\t\t\t\t<SegmentTimeline>\n\t\t\t\t\t\t<S t=\"0\" d=\"221153\" />\n\t\t\t\t\t\t<S d=\"220160\" />\n\t\t\t\t\t\t<S d=\"221184\" />\n\t\t\t\t\t\t<S d=\"220160\" r=\"1\" />\n\t\t\t\t\t\t<S d=\"133120\" />\n\t\t\t\t\t</SegmentTimeline>\n\t\t\t\t</SegmentTemplate>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
-    },
-    {
       "channel_id": "1389",
       "channel_name": "Star Sports 3",
       "status": "success",
@@ -293,5 +285,16 @@
       "playlist_data": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n\txmlns=\"urn:mpeg:dash:schema:mpd:2011\"\n\txmlns:xlink=\"http://www.w3.org/1999/xlink\"\n\txsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd\"\n\tprofiles=\"urn:mpeg:dash:profile:isoff-live:2011\"\n\ttype=\"static\"\n\tmediaPresentationDuration=\"PT28.0S\"\n\tmaxSegmentDuration=\"PT5.0S\"\n\tminBufferTime=\"PT10.0S\">\n\t<ProgramInformation>\n\t</ProgramInformation>\n\t<ServiceDescription id=\"0\">\n\t</ServiceDescription>\n\t<Period id=\"0\" start=\"PT0.0S\">\n\t\t<AdaptationSet id=\"0\" contentType=\"video\" startWithSAP=\"1\" segmentAlignment=\"true\" bitstreamSwitching=\"true\" frameRate=\"105125/1752\" maxWidth=\"1920\" maxHeight=\"1080\" par=\"16:9\" lang=\"eng\">\n\t\t\t<Representation id=\"0\" mimeType=\"video/mp4\" codecs=\"avc1.64002a\" bandwidth=\"6012586\" width=\"1920\" height=\"1080\" sar=\"1:1\">\n\t\t\t\t<SegmentTemplate timescale=\"16000\" initialization=\"init-stream$RepresentationID$.m4s\" media=\"chunk-stream$RepresentationID$-$Number%05d$.m4s\" startNumber=\"1\">\n\t\t\t\t\t<SegmentTimeline>\n\t\t\t\t\t\t<S t=\"0\" d=\"79984\" />\n\t\t\t\t\t\t<S d=\"80000\" r=\"3\" />\n\t\t\t\t\t\t<S d=\"48528\" />\n\t\t\t\t\t</SegmentTimeline>\n\t\t\t\t</SegmentTemplate>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t\t<AdaptationSet id=\"1\" contentType=\"audio\" startWithSAP=\"1\" segmentAlignment=\"true\" bitstreamSwitching=\"true\" lang=\"eng\">\n\t\t\t<Representation id=\"1\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" bandwidth=\"131297\" audioSamplingRate=\"44100\">\n\t\t\t\t<AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\" />\n\t\t\t\t<SegmentTemplate timescale=\"44100\" initialization=\"init-stream$RepresentationID$.m4s\" media=\"chunk-stream$RepresentationID$-$Number%05d$.m4s\" startNumber=\"1\">\n\t\t\t\t\t<SegmentTimeline>\n\t\t\t\t\t\t<S t=\"0\" d=\"221153\" />\n\t\t\t\t\t\t<S d=\"220160\" />\n\t\t\t\t\t\t<S d=\"221184\" />\n\t\t\t\t\t\t<S d=\"220160\" r=\"1\" />\n\t\t\t\t\t\t<S d=\"133120\" />\n\t\t\t\t\t</SegmentTimeline>\n\t\t\t\t</SegmentTemplate>\n\t\t\t</Representation>\n\t\t</AdaptationSet>\n\t</Period>\n</MPD>\n"
     }
   ],
-  "failed_results": []
+  "failed_results": [
+    {
+      "channel_id": "1985",
+      "channel_name": "Star Sports 2 Hindi",
+      "status": "failed",
+      "error_details": {
+        "http_code": 0,
+        "error": "Operation timed out after 20000 milliseconds with 0 bytes received",
+        "final_url": "https://game.playindia.fun/Jtv/YxMhkt/Jtv.mpd?id=1985"
+      }
+    }
+  ]
 }
