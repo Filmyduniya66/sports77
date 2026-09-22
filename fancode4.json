@@ -2,52 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "02:36:12 PM 22-09-2026",
-    "generated_at": "2026-09-22 09:10:12",
+    "source_last_updated": "02:46:18 PM 22-09-2026",
+    "generated_at": "2026-09-22 09:25:07",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 40,
-    "live_matches_count": 4,
+    "total_matches": 38,
+    "live_matches_count": 2,
     "upcoming_matches_count": 36,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249214_ENG",
-            "title": "India tour of Japan, 2026 [English]",
-            "match_name": "India vs Japan [English]",
-            "event_name": "India tour of Japan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/JPN-vs-IND_FC-WEB.jpg",
-            "team_1": "India",
-            "team_2": "Japan",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 22-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249214_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4249214_HIN",
-            "title": "India tour of Japan, 2026 [Hindi]",
-            "match_name": "India vs Japan [Hindi]",
-            "event_name": "India tour of Japan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/JPN-vs-IND_FC-WEB.jpg",
-            "team_1": "India",
-            "team_2": "Japan",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 22-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "Hindi",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249214_HIN/hindi.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249277_ENG",
@@ -556,44 +518,6 @@
         }
     ],
     "live_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249214_ENG",
-            "title": "India tour of Japan, 2026 [English]",
-            "match_name": "India vs Japan [English]",
-            "event_name": "India tour of Japan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/JPN-vs-IND_FC-WEB.jpg",
-            "team_1": "India",
-            "team_2": "Japan",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 22-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249214_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4249214_HIN",
-            "title": "India tour of Japan, 2026 [Hindi]",
-            "match_name": "India vs Japan [Hindi]",
-            "event_name": "India tour of Japan, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/JPN-vs-IND_FC-WEB.jpg",
-            "team_1": "India",
-            "team_2": "Japan",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 22-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "Hindi",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249214_HIN/hindi.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249277_ENG",
