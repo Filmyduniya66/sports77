@@ -122,7 +122,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-#EXTHTTP:{"cookie": "__hdnea__=st=1790087538~exp=1790109138~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=9e23460e59c93cc684e8368f278854f53af382450ce8d0b2a9d3a077d979d80c"}
+#EXTHTTP:{"cookie": "__hdnea__=st=1790109223~exp=1790130823~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=dd253a964a9f114dbbc6f4a54f12cfd55415878d3558ef8244d1f6af772403b1"}
 #EXTVLCOPT:http-user-agent=Virat🐐
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
 
@@ -131,7 +131,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"cookie": "__hdnea__=st=1790087536~exp=1790109136~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=34298b16473dc61161fc110c3d07f371e0f69c10e73a46b43af57b9e3e2c3d82"}
+#EXTHTTP:{"cookie": "__hdnea__=st=1790109148~exp=1790130748~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=902f56189aecca0a75ffb81133e5ebc6e7623061e55b41ef02a65f842ab6a8e0"}
 #EXTVLCOPT:http-user-agent=Virat🐐
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
 
@@ -140,7 +140,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-#EXTHTTP:{"cookie": "__hdnea__=st=1790087542~exp=1790109142~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=3adda34c757ec3d723a0c7485c4e6114171c39255694b6dbacc079d2d8541d2f"}
+#EXTHTTP:{"cookie": "__hdnea__=st=1790109147~exp=1790130747~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=2a890d1ef2b3204aa5f3f41e9f9dc940682dedfc6f91af39d0397b82e82e231d"}
 #EXTVLCOPT:http-user-agent=Virat🐐
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd
 
