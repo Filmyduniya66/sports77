@@ -2,7 +2,7 @@
   "total_channels": 36,
   "successful_channels": 0,
   "failed_channels": 36,
-  "timestamp": "2026-09-22 09:11:16",
+  "timestamp": "2026-09-22 09:36:17",
   "successful_results": [],
   "failed_results": [
     {
@@ -42,7 +42,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790065607~exp=1790069207~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=1c8adedd88e06669212d5721650a33f09ec2d9e46ef4593e9040187882e41a79"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790069229~exp=1790072829~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=8ed6e696d3a914d5bddcfd4944ee569020063e4df840f359b49bc32004e44a76"
       }
     },
     {
@@ -92,7 +92,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790065130~exp=1790068730~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=aeefed12c5933b35ed963f12cc10dbb14b1e0a2d789ca5eeec85aacd804fcd25"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790068619~exp=1790072219~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=ce3936ce9c3e63f12cad5389ac00f5bfac9b46fea092a2c27456203e6b1401e8"
       }
     },
     {
@@ -110,9 +110,9 @@
       "channel_name": "And Xplor HD",
       "status": "failed",
       "error_details": {
-        "http_code": 0,
-        "error": "Connection timed out after 10002 milliseconds",
-        "final_url": "https://game.playindia.fun/Jtv/YxMhkt/Jtv.mpd?id=1668"
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790069338~exp=1790072938~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=8bef1800640600f1d61f529073fc38e0564baa29949d55c4557b10e64b4b149e"
       }
     },
     {
@@ -132,7 +132,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1790046947~exp=1790068547~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=461b72152bebb6a02b75369cce94423f0ded2f742d497731da8db7de210a19f7"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1790068550~exp=1790090150~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=35fb04f291b2d70f25cd4b88f6187effcc3b1e96c70c3a48fa83f800d80e0114"
       }
     },
     {
