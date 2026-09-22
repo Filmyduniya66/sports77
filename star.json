@@ -130,6 +130,16 @@
     "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg"
   },
   {
+    "id": "3277",
+    "name": "Star Sports 1 Tamil HD",
+    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd",
+    "cookie": "__hdnea__=st=1790065904~exp=1790087504~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=2646d94eb50678e79c0990dbee0e4c840aa16a13c5da5959ee6ef56a5ea480eb",
+    "cookie_expires": "22/9/2026 8:01:44 PM IST",
+    "key_id": "2272c0bc6b2e5cb090b1f55996e0026c",
+    "key": "943923934de1d5536ab01c67fca8b337",
+    "logo": "https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg"
+  },
+  {
     "id": "1124",
     "name": "Star Sports 1 Tamil",
     "stream_url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd",
