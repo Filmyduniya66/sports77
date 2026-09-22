@@ -1,0 +1,772 @@
+{
+  "name": "FanCode Live Matches API",
+  "updatedAt": "22/9/2026, 12:15:34 pm",
+  "total_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 36,
+  "matches": [
+    {
+      "category": "Cricket",
+      "title": "India vs Japan [English]",
+      "tournament": "India tour of Japan, 2026",
+      "match_id": "4249214",
+      "status": "LIVE",
+      "startTime": "09:30:00 AM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/JPN-vs-IND_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/240p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/360p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/480p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/540p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/720p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA"
+          },
+          "cookie": "hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/*~Signature=AUh_zpV4meABD8UnMizuHHrFO0xCAXgf2Qzx4xHEK9-8Xh5aXdgh1hV5Qpe8eIROrteCeYJqrL2tdHYu-3lA0RZ_ZAgA",
+          "expires": "1790134901",
+          "expire_date": ""
+        },
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/240p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/*~Signature=AUh_zpXA5siZeReS7Mr0fzW-mrpsVxltO8HpICkyj1joxgqATCxK9oi6vR9Gp-5dmixKWglkiI7uK1WOV17hl2gtwycM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/360p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/*~Signature=AUh_zpXA5siZeReS7Mr0fzW-mrpsVxltO8HpICkyj1joxgqATCxK9oi6vR9Gp-5dmixKWglkiI7uK1WOV17hl2gtwycM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/480p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/*~Signature=AUh_zpXA5siZeReS7Mr0fzW-mrpsVxltO8HpICkyj1joxgqATCxK9oi6vR9Gp-5dmixKWglkiI7uK1WOV17hl2gtwycM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/540p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/*~Signature=AUh_zpXA5siZeReS7Mr0fzW-mrpsVxltO8HpICkyj1joxgqATCxK9oi6vR9Gp-5dmixKWglkiI7uK1WOV17hl2gtwycM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/720p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/*~Signature=AUh_zpXA5siZeReS7Mr0fzW-mrpsVxltO8HpICkyj1joxgqATCxK9oi6vR9Gp-5dmixKWglkiI7uK1WOV17hl2gtwycM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/*~Signature=AUh_zpXA5siZeReS7Mr0fzW-mrpsVxltO8HpICkyj1joxgqATCxK9oi6vR9Gp-5dmixKWglkiI7uK1WOV17hl2gtwycM"
+          },
+          "cookie": "hdntl=Expires=1790134901~_GO=Generated~acl=/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/*~Signature=AUh_zpXA5siZeReS7Mr0fzW-mrpsVxltO8HpICkyj1joxgqATCxK9oi6vR9Gp-5dmixKWglkiI7uK1WOV17hl2gtwycM",
+          "expires": "1790134901",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Queensland vs New South Wales [English]",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249277",
+      "status": "LIVE",
+      "startTime": "09:30:00 AM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249277_53072_QUN_NSW_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/240p.m3u8?hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/360p.m3u8?hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/480p.m3u8?hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/540p.m3u8?hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/720p.m3u8?hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ"
+          },
+          "cookie": "hdntl=Expires=1790135508~_GO=Generated~acl=/mumbai/4249277_english_hls_35448e42fd86769_1ta-di_h264/*~Signature=AUh_zpVFaYTZX_FxVF4pueeE7s056q-YHzefac3eKHhaBHbyVM3l54QQni4W486VRB9mkbDg4IHp3pkzzMHAds7N4skJ",
+          "expires": "1790135508",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Puri Titans vs Kataka Panthers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249574",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1789983233568.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249575",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1789983233587.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "South Australia vs Tasmania",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249275",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 AM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "MI Emirates Development vs Gulf Giants Development",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249254",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249254_53070_MED_GGD_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249255",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Bayern Munich Women vs Manchester City Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249468",
+      "status": "UPCOMING",
+      "startTime": "10:15:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249468_53078_BAY-W_MCI-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Inter Women vs BK Häcken Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249469",
+      "status": "UPCOMING",
+      "startTime": "10:15:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249469_53078_INT-W_BKH-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Arsenal Women vs HB Køge Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249470",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249470_53078_ARS-W_KOG-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Juventus Women vs Benfica Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249471",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249471_53078_JUV-W_BEN-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Real Madrid Women vs Paris Saint-Germain Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249472",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Puri Titans",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249576",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bhubaneshwar Tigers vs Kataka Panthers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249577",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1789983232746.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249525",
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Chengdu Open 2026",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248537",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": "4248544",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249256",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Oud-Heverlee Leuven Women vs Roma Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249473",
+      "status": "UPCOMING",
+      "startTime": "10:15:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249473_53078_OHL-W_ROM-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Servette Women vs OL Lyonnes",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249474",
+      "status": "UPCOMING",
+      "startTime": "10:15:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249257",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Austria Wien Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249475",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Barcelona Women vs Paris FC Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249476",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Keonjhar Miners vs Sambalpur Warriors",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249578",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Chengdu Open 2026",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248538",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": "4248545",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice",
+      "tournament": "F2 AZERBAIJAN 2026",
+      "match_id": "139654",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Calcutta Customs Club vs East Bengal FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249522",
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Puri Titans vs Bhubaneshwar Tigers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249579",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
+      "match_id": "139492",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying",
+      "tournament": "F2 AZERBAIJAN 2026",
+      "match_id": "139655",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249258",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 2",
+      "tournament": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
+      "match_id": "139493",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1 - World Feed",
+      "tournament": "Presidents Cup 2026",
+      "match_id": "4249104",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Victoria vs New South Wales",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249278",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Kataka Panthers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249580",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1789983232752.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Chengdu Open 2026",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248539",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": "4248546",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    }
+  ]
+}
