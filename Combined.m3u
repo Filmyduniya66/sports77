@@ -9,11 +9,11 @@ https://dai-fancode.pages.dev/mumbai/4249254_english_hls_8fc576199916469_1ta-di_
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="1st ODI - 22 Sep 2026 [ENG] - Sri Lanka Tour of England 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st ODI - 22 Sep 2026 [ENG] - Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790141760~acl=/*~id=71513299805615627705156924566752~hmac=58969b2fda5876989e7c3540f994d4f6dbd27f09ca47380e545c7c4c285fffab
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790144796~acl=/*~id=23931714039675382657582864839721~hmac=9687bae5a16a9c7a7ebc07b911a04d8b4657cdc7d63bf7c36984898ea9337880
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 AM 23-09-2026
+#LAST_UPDATE:12:32 AM 23-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -24,11 +24,11 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd
 
 #===== Prime Video | Sportlink (2 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:02 AM 23-09-2026
+#LAST_UPDATE:12:32 AM 23-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -41,42 +41,47 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#===== AXS | Sportlink (7 channels) =====
+#===== AXS | Sportlink (8 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:02:34 AM 23-09-2026
+#last update time: 12:32:30 AM 23-09-2026
 
-#EXTINF:-1 tvg-name="England vs Sri Lanka - Sri Lanka tour of England @virat10" tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="AXS | Sportlink", England vs Sri Lanka - Sri Lanka tour of England
+#EXTINF:-1 tvg-name="England vs Sri Lanka - Sri Lanka tour of England [Server 1] @virat10" tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="AXS | Sportlink", England vs Sri Lanka - Sri Lanka tour of England [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790186559-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5fcf4f3f1783083922d073da5e79a957
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790188360-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f071e630fe2ace816b2b05c4479d77e0
+
+#EXTINF:-1 tvg-name="England vs Sri Lanka - Sri Lanka tour of England [Server 2] @virat10" tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="AXS | Sportlink", England vs Sri Lanka - Sri Lanka tour of England [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790188365-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-99056c66e090d0014d435d2ef1c111ff
 
 #EXTINF:-1 tvg-name="Inter Milano W vs Häcken W - UEFA Champions League Women [Server 1] @virat10" tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="AXS | Sportlink", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790186577-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2d98599de950a102c6076d474ebc8367
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790188372-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a6004785b3c0fe2b5243f2eaadf5b35c
 
 #EXTINF:-1 tvg-name="Inter Milano W vs Häcken W - UEFA Champions League Women [Server 2] @virat10" tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="AXS | Sportlink", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790186582-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-150d7f1022b7772730fc435103145cae
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790188379-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-81d6c5d80337afe5f43042d6cf1887b0
 
 #EXTINF:-1 tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1] @virat10" tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="AXS | Sportlink", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/chunks.m3u8?is_vip=false&token=1790186595-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b2a37f33c7c70ecbcb8e3e5479365de5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/chunks.m3u8?is_vip=false&token=1790188390-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6d38e95c3dcc49aa2750a7f18cdd9943
 
 #EXTINF:-1 tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2] @virat10" tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="AXS | Sportlink", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790186600-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5ac792f661e5ea878ba23dc135732ea8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790188394-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c0b0f1e6c96116bc37c7a609fd618dd6
 
 #EXTINF:-1 tvg-name="Tampa Bay Rays vs New York Yankees - MLB @virat10" tvg-id="66618" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg" group-title="AXS | Sportlink", Tampa Bay Rays vs New York Yankees - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790186607-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3ea858b73e073b3152ca8a6061205f6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790188400-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-983c80a4f0a1665036844643459f5227
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
