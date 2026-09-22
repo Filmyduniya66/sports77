@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:20:31 PM 22-09-2026",
-    "generated_at": "2026-09-22 15:55:07",
+    "source_last_updated": "09:30:37 PM 22-09-2026",
+    "generated_at": "2026-09-22 16:10:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 36,
@@ -43,6 +43,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249255,
+            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 22-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4249468,
             "title": "Bayern Munich Women vs Manchester City Women (UEFA Women's Champions League 2026-27)",
@@ -79,19 +92,6 @@
             "team_2": "Puri Titans",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249255,
-            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Abu Dhabi Knight Riders Development",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 22-09-2026",
             "user-agent": null
         },
         {
@@ -212,32 +212,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4248537,
-            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "ATP 250 - Chengdu Open 2026",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "ATP 250 - Chengdu Open 2026",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 AM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248544,
-            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "ATP 250 - Hangzhou Open 2026",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "ATP 250 - Hangzhou Open 2026",
-            "team_2": "Hangzhou, China",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 AM 23-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249475,
             "title": "Chelsea F.C. Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
@@ -261,6 +235,32 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248537,
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 23-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248544,
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 23-09-2026",
             "user-agent": null
         },
         {
@@ -521,6 +521,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249255,
+            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 22-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4249468,
             "title": "Bayern Munich Women vs Manchester City Women (UEFA Women's Champions League 2026-27)",
@@ -557,19 +570,6 @@
             "team_2": "Puri Titans",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249255,
-            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Abu Dhabi Knight Riders Development",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 22-09-2026",
             "user-agent": null
         },
         {
@@ -690,32 +690,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4248537,
-            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "ATP 250 - Chengdu Open 2026",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "ATP 250 - Chengdu Open 2026",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 AM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248544,
-            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "ATP 250 - Hangzhou Open 2026",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "ATP 250 - Hangzhou Open 2026",
-            "team_2": "Hangzhou, China",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 AM 23-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249475,
             "title": "Chelsea F.C. Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
@@ -739,6 +713,32 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248537,
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 23-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248544,
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 23-09-2026",
             "user-agent": null
         },
         {
