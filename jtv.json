@@ -22,9 +22,9 @@
   {
     "id": "146",
     "name": "History TV18 HD",
-    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd",
-    "cookie": "__hdnea__=st=1790073787~exp=1790077387~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=30dd8646e93b41370fb3f9664ec5eae2aaed29bbc96b5b3e3f4037545a0417be",
-    "cookie_expires": "22/9/2026 5:13:07 PM IST",
+    "stream_url": "https://game.playindia.fun/Jtv/YxMhkt/Jtv.mpd?id=146",
+    "cookie": "",
+    "cookie_expires": "",
     "key_id": "0172b8cd13ed59349a05aadc58ae11e0",
     "key": "e4ab7836617767a2a6e7aaae17fad2b6",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png"
@@ -583,8 +583,8 @@
     "id": "415",
     "name": "Zee Anmol Cinema",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd",
-    "cookie": "__hdnea__=st=1790072895~exp=1790076495~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=e898d1ea0df891b998edbf67fcbe76359d12a1c285db4f33a36169848b7d4ba3",
-    "cookie_expires": "22/9/2026 4:58:15 PM IST",
+    "cookie": "__hdnea__=st=1790076411~exp=1790080011~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=725d01934ca7aa2b91eaafef6455f21d0abcbb49302afef14d9a86d91fc98237",
+    "cookie_expires": "22/9/2026 5:56:51 PM IST",
     "key_id": "8ab0674eba3f5adf96a9b65a6e82d208",
     "key": "476f813d8651987fc1b4074693676fd8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png"
@@ -3293,8 +3293,8 @@
     "id": "821",
     "name": "Sony BBC Earth HD",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd",
-    "cookie": "__hdnea__=st=1790073208~exp=1790076808~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=fdbc57dddd9e11a3163348577deb81ebb3056110f157a17d6bffacda1d1224e1",
-    "cookie_expires": "22/9/2026 5:03:28 PM IST",
+    "cookie": "__hdnea__=st=1790076712~exp=1790080312~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=41b32ab9c9003aa4d043dc797c0dc03e59d3cb542d7991478e9209afae1311cf",
+    "cookie_expires": "22/9/2026 6:01:52 PM IST",
     "key_id": "f45e69507f0f5aa1a6e82374efb0af25",
     "key": "f84348219837769feb5a26a7b1cd31dc",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png"
@@ -5413,8 +5413,8 @@
     "id": "1332",
     "name": "Nat Geo Wild HD",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd",
-    "cookie": "__hdnea__=st=1790072313~exp=1790075913~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=0f5a3d74daa90a1d1a9bf094ad48839d333340d8eb4f474c99dd0c67bc158b7a",
-    "cookie_expires": "22/9/2026 4:48:33 PM IST",
+    "cookie": "__hdnea__=st=1790075921~exp=1790079521~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=9a039c01d3df51c1d86f5ea6eb391184bc969d3e84ccd912142d5210f4f503df",
+    "cookie_expires": "22/9/2026 5:48:41 PM IST",
     "key_id": "45fc661aa1af51c98950c43329391d18",
     "key": "c2677c874886e78d24b3fb656c5734e0",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png"
@@ -6553,8 +6553,8 @@
     "id": "1668",
     "name": "And Xplor HD",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd",
-    "cookie": "__hdnea__=st=1790072907~exp=1790076507~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=f1044e66527363dbcbe67df85817087108b2e8b73dbefd47dfff6cb5d259ff88",
-    "cookie_expires": "22/9/2026 4:58:27 PM IST",
+    "cookie": "__hdnea__=st=1790076536~exp=1790080136~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=678a2db1cd3e0b8e06391b3c29ec9372bb53862621c0528de4c1407514afc03d",
+    "cookie_expires": "22/9/2026 5:58:56 PM IST",
     "key_id": "67e52f4bdcfc525898be0446feb7f185",
     "key": "8cf5c24b168105bca24b358eb05f6df4",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png"
