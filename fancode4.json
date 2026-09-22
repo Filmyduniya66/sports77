@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "02:53:59 AM 23-09-2026",
-    "generated_at": "2026-09-22 21:30:13",
+    "source_last_updated": "03:04:04 AM 23-09-2026",
+    "generated_at": "2026-09-22 21:40:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 36,
-    "live_matches_count": 3,
-    "upcoming_matches_count": 33,
+    "live_matches_count": 2,
+    "upcoming_matches_count": 34,
     "matches": [
         {
             "event_category": "Football",
@@ -26,25 +26,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249470_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249471_ENG",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "Juventus Women vs Benfica Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249471_53078_JUV-W_BEN-W_fc-web_1790067155271.jpg",
-            "team_1": "Juventus Women",
-            "team_2": "Benfica Women",
-            "status": "LIVE",
-            "startTime": "12:30:00 AM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249471_ENG/english.m3u8"
                 }
             ]
         },
@@ -495,6 +476,19 @@
             "status": "UPCOMING",
             "startTime": "12:00:00 AM 26-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249105,
+            "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 PM 25-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -514,25 +508,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249470_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249471_ENG",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "Juventus Women vs Benfica Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249471_53078_JUV-W_BEN-W_fc-web_1790067155271.jpg",
-            "team_1": "Juventus Women",
-            "team_2": "Benfica Women",
-            "status": "LIVE",
-            "startTime": "12:30:00 AM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249471_ENG/english.m3u8"
                 }
             ]
         },
@@ -984,6 +959,19 @@
             "team_2": "Albacete",
             "status": "UPCOMING",
             "startTime": "12:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249105,
+            "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 PM 25-09-2026",
             "user-agent": null
         }
     ]
