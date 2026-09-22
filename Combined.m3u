@@ -9,11 +9,11 @@ https://dai-fancode.pages.dev/mumbai/4249254_english_hls_8fc576199916469_1ta-di_
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="1st ODI - 22 Sep 2026 [ENG] - Sri Lanka Tour of England 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st ODI - 22 Sep 2026 [ENG] - Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790135094~acl=/*~id=27822010015649513687644521064401~hmac=688add16a8d102ef6323cf94d1fd1ca941b435cb222c5d9c66a24e85f85bea87
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790138125~acl=/*~id=42645937949016759789559677857608~hmac=8cc5f6532605b7efafca03ea0abc33131910886c7225b7aa5eb0b797d9ea20fb
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 22-09-2026
+#LAST_UPDATE:10:32 PM 22-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -28,7 +28,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzu
 
 #===== Prime Video | Sportlink (2 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:32 PM 22-09-2026
+#LAST_UPDATE:10:32 PM 22-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -39,39 +39,44 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
-#===== AXS | Sportlink (6 channels) =====
+#===== AXS | Sportlink (7 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:03:02 PM 22-09-2026
+#last update time: 10:32:34 PM 22-09-2026
 
 #EXTINF:-1 tvg-name="England vs Sri Lanka - Sri Lanka tour of England [Server 1] @virat10" tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="AXS | Sportlink", England vs Sri Lanka - Sri Lanka tour of England [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790179385-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-040b596f53936f0acd60de34bf8de4b6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790181158-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f42700976a16d2f1794840230a7897c2
 
 #EXTINF:-1 tvg-name="England vs Sri Lanka - Sri Lanka tour of England [Server 2] @virat10" tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="AXS | Sportlink", England vs Sri Lanka - Sri Lanka tour of England [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790179389-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-068f190c0507d9f0b9e1f192486c4250
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790181161-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-617dd2e4f607b362d6b9ab653a0ca174
 
 #EXTINF:-1 tvg-name="Stage 1 - UCI Pro Series @virat10" tvg-id="65225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%201.jpg" group-title="AXS | Sportlink", ES1, CRO Race, Stage 1 - UCI Pro Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790179395-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fe16ea3568cb8027ec9baec8a8ad7fc5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790181168-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f71665580f9ec0ec2b5181eaae79ecb3
 
 #EXTINF:-1 tvg-name="Players Championship 29 - Den Bosch - Players Championship @virat10" tvg-id="66646" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg" group-title="AXS | Sportlink", Players Championship 29 - Den Bosch - Players Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790179401-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1015e514efd5a1b60ddcbf63a8cba299
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790181174-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-84a9bed350dee7bf981c5e5bcc9400cf
 
 #EXTINF:-1 tvg-name="Men's Junior ITT - Cycling World Championships @virat10" tvg-id="66649" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men's%20Junior%20ITT.jpg" group-title="AXS | Sportlink", Men's Junior ITT - Cycling World Championships
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790179431-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-75df0d502bec0bed2120d41f57dc6998
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790181186-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3a49a3b1b7752cc988b2e5892b05a1f1
+
+#EXTINF:-1 tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women @virat10" tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="AXS | Sportlink", Bayern Munich W vs Manchester City W - UEFA Champions League Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790181234-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-587af414d977c1b1930e00ec105bfe09
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
