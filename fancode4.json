@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "05:12:21 PM 23-09-2026",
-    "generated_at": "2026-09-23 11:45:05",
+    "source_last_updated": "05:32:30 PM 23-09-2026",
+    "generated_at": "2026-09-23 12:05:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
-    "live_matches_count": 3,
-    "upcoming_matches_count": 35,
+    "live_matches_count": 2,
+    "upcoming_matches_count": 36,
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,25 +26,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249525_ENG",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "LIVE",
-            "startTime": "03:00:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249525_ENG/english.m3u8"
                 }
             ]
         },
@@ -70,27 +51,14 @@
         {
             "event_category": "Cricket",
             "match_id": 4249577,
-            "title": "Bhubaneshwar Tigers vs Cuttack Panthers (Odisha T20 League 2026)",
-            "match_name": "Bhubaneshwar Tigers vs Cuttack Panthers",
+            "title": "Bhubaneshwar Tigers vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Bhubaneshwar Tigers vs Kataka Panthers",
             "event_name": "Odisha T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1789983232746.jpg",
             "team_1": "Bhubaneshwar Tigers",
-            "team_2": "Cuttack Panthers",
+            "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249578,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -104,6 +72,19 @@
             "team_2": "Abu Dhabi Knight Riders Development",
             "status": "UPCOMING",
             "startTime": "06:30:00 PM 23-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249578,
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -521,6 +502,19 @@
             "status": "UPCOMING",
             "startTime": "03:00:00 PM 26-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4249606,
+            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Feature Race 2",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 26-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -540,25 +534,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249525_ENG",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "LIVE",
-            "startTime": "03:00:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249525_ENG/english.m3u8"
                 }
             ]
         },
@@ -586,27 +561,14 @@
         {
             "event_category": "Cricket",
             "match_id": 4249577,
-            "title": "Bhubaneshwar Tigers vs Cuttack Panthers (Odisha T20 League 2026)",
-            "match_name": "Bhubaneshwar Tigers vs Cuttack Panthers",
+            "title": "Bhubaneshwar Tigers vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Bhubaneshwar Tigers vs Kataka Panthers",
             "event_name": "Odisha T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1789983232746.jpg",
             "team_1": "Bhubaneshwar Tigers",
-            "team_2": "Cuttack Panthers",
+            "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249578,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -620,6 +582,19 @@
             "team_2": "Abu Dhabi Knight Riders Development",
             "status": "UPCOMING",
             "startTime": "06:30:00 PM 23-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249578,
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -1036,6 +1011,19 @@
             "team_2": "NorthEast United FC",
             "status": "UPCOMING",
             "startTime": "03:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4249606,
+            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Feature Race 2",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 26-09-2026",
             "user-agent": null
         }
     ]
