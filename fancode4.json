@@ -2,33 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:23:02 PM 23-09-2026",
-    "generated_at": "2026-09-23 13:00:13",
+    "source_last_updated": "06:43:13 PM 23-09-2026",
+    "generated_at": "2026-09-23 13:20:05",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 38,
-    "live_matches_count": 3,
+    "total_matches": 37,
+    "live_matches_count": 2,
     "upcoming_matches_count": 35,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249576_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Puri Titans [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://images.fancode.com/aig/match/v1790165047477/4249576_CASACARDS_APP.png",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
-            "status": "LIVE",
-            "startTime": "02:30:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249256_ENG",
@@ -524,25 +505,6 @@
         }
     ],
     "live_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249576_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Puri Titans [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://images.fancode.com/aig/match/v1790165047477/4249576_CASACARDS_APP.png",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
-            "status": "LIVE",
-            "startTime": "02:30:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249256_ENG",
