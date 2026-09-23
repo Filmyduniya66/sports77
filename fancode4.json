@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "07:26:34 AM 23-09-2026",
-    "generated_at": "2026-09-23 02:00:42",
+    "source_last_updated": "07:46:46 AM 23-09-2026",
+    "generated_at": "2026-09-23 02:20:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 36,
@@ -225,19 +225,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139654,
-            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Practice",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249579,
             "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
@@ -248,6 +235,19 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139654,
+            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Practice",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Practice",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 24-09-2026",
             "user-agent": null
         },
         {
@@ -703,19 +703,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139654,
-            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Practice",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249579,
             "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
@@ -726,6 +713,19 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139654,
+            "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Practice",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Practice",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 24-09-2026",
             "user-agent": null
         },
         {
