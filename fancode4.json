@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "10:05:50 PM 23-09-2026",
-    "generated_at": "2026-09-23 16:50:05",
+    "source_last_updated": "10:26:07 PM 23-09-2026",
+    "generated_at": "2026-09-23 17:00:36",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
-    "live_matches_count": 4,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 5,
+    "upcoming_matches_count": 33,
     "matches": [
         {
             "event_category": "Cricket",
@@ -45,6 +45,25 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249256_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249257_ENG",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-2.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Desert Vipers Development",
+            "status": "LIVE",
+            "startTime": "10:30:00 PM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249257_ENG/english.m3u8"
                 }
             ]
         },
@@ -88,19 +107,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249257,
-            "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-2.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Desert Vipers Development",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249578,
             "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
             "match_name": "Keonjhar Miners vs Sambalpur Warriors",
@@ -110,6 +116,19 @@
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249778,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -514,19 +533,6 @@
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 26-09-2026",
             "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248484,
-            "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Charlton Athletic F.C Women vs Manchester City Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
-            "team_1": "Charlton Athletic F.C Women",
-            "team_2": "Manchester City Women",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 26-09-2026",
-            "user-agent": null
         }
     ],
     "live_matches": [
@@ -565,6 +571,25 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249256_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249257_ENG",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-2.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Desert Vipers Development",
+            "status": "LIVE",
+            "startTime": "10:30:00 PM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249257_ENG/english.m3u8"
                 }
             ]
         },
@@ -610,19 +635,6 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249257,
-            "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-2.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Desert Vipers Development",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249578,
             "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
             "match_name": "Keonjhar Miners vs Sambalpur Warriors",
@@ -632,6 +644,19 @@
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249778,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -1035,19 +1060,6 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248484,
-            "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Charlton Athletic F.C Women vs Manchester City Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
-            "team_1": "Charlton Athletic F.C Women",
-            "team_2": "Manchester City Women",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 26-09-2026",
             "user-agent": null
         }
     ]
