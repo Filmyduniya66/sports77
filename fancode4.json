@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:43:13 PM 23-09-2026",
-    "generated_at": "2026-09-23 13:20:05",
+    "source_last_updated": "07:03:23 PM 23-09-2026",
+    "generated_at": "2026-09-23 13:35:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 37,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 35,
+    "live_matches_count": 1,
+    "upcoming_matches_count": 36,
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,25 +26,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249256_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248544_ENG",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Hangzhou, China",
-            "status": "LIVE",
-            "startTime": "01:30:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248544_ENG/english.m3u8"
                 }
             ]
         },
@@ -502,6 +483,19 @@
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 26-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249583,
+            "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1789983232850.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 26-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -521,25 +515,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249256_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248544_ENG",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Hangzhou, China",
-            "status": "LIVE",
-            "startTime": "01:30:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248544_ENG/english.m3u8"
                 }
             ]
         }
@@ -998,6 +973,19 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249583,
+            "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1789983232850.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 26-09-2026",
             "user-agent": null
         }
     ]
