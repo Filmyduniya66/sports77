@@ -12,14 +12,14 @@ https://dai-fancode.pages.dev/mumbai/4249256_english_hls_00cab967ca77096_1ta-di_
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG] - UEFA International Friendlies @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790026803564502_UEFA_INT_friendly_MD1_Azerbaijan_vs_Tajikstan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790220674~acl=/*~id=85179060387723266705612326139719~hmac=5740498530de029f57582056129eac8b0ac281425080af6e456cf953834c52a2
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790222500~acl=/*~id=91810141959536197827027634266160~hmac=26e8842225e13eedb5c536e4d94d781174150fd8da0cfe4b466779b005940404
 
 #EXTINF:-1 tvg-name="Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG] - UEFA International Friendlies @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027249384502_UEFA_INT_friendly_MD1_Gibraltar_vs_Sao_Tome_and_Principe_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790220674~acl=/*~id=85179060387723266705612326139719~hmac=5740498530de029f57582056129eac8b0ac281425080af6e456cf953834c52a2
+https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790222500~acl=/*~id=91810141959536197827027634266160~hmac=26e8842225e13eedb5c536e4d94d781174150fd8da0cfe4b466779b005940404
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 PM 23-09-2026
+#LAST_UPDATE:10:02 PM 23-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -47,27 +47,42 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
-#===== AXS | Sportlink (4 channels) =====
+#===== AXS | Sportlink (7 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 9:32:26 PM 23-09-2026
-
-#EXTINF:-1 tvg-name="Players Championship 30 - Den Bosch - Players Championship @virat10" tvg-id="66647" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2030%20-%20Den%20Bosch.jpg" group-title="AXS | Sportlink", Players Championship 30 - Den Bosch - Players Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790263961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-78592542e49dd4f452b01376b71ea218
-
-#EXTINF:-1 tvg-name="Iraq vs Oman - Gulf Cup of Nations @virat10" tvg-id="66183" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Iraq%20vs%20Oman.jpg" group-title="AXS | Sportlink", Iraq vs Oman - Gulf Cup of Nations
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/chunks.m3u8?is_vip=false&token=1790263974-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-abd734e6a1f90af291db76985508c871
+#last update time: 10:02:29 PM 23-09-2026
 
 #EXTINF:-1 tvg-name="WTA Singapore - WTA Singapore @virat10" tvg-id="74871" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="AXS | Sportlink", WTA Singapore - WTA Singapore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790263984-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3df53ba102adbed66d8960a91e420fe9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790265754-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0b2d3963e132f93fe6cbebb8974b347d
+
+#EXTINF:-1 tvg-name="Players Championship 30 - Den Bosch - Players Championship @virat10" tvg-id="66647" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2030%20-%20Den%20Bosch.jpg" group-title="AXS | Sportlink", Players Championship 30 - Den Bosch - Players Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790265762-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1aa900a29e4f5bba4d28839c3f34e219
+
+#EXTINF:-1 tvg-name="Iraq vs Oman - Gulf Cup of Nations @virat10" tvg-id="66183" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Iraq%20vs%20Oman.jpg" group-title="AXS | Sportlink", Iraq vs Oman - Gulf Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/chunks.m3u8?is_vip=false&token=1790265770-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-40c0797462b688c508ba4a36b7282da8
+
+#EXTINF:-1 tvg-name="Birmingham Legion vs Brooklyn - USL Championship @virat10" tvg-id="66184" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham%20Legion%20vs%20Brooklyn.jpg" group-title="AXS | Sportlink", Birmingham Legion vs Brooklyn - USL Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a05/chunks.m3u8?is_vip=false&token=1790265777-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ec3765a877c856c097481d4a90fc7a1e
+
+#EXTINF:-1 tvg-name="Azerbaijan vs Tajikistan - Friendlies @virat10" tvg-id="66181" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20vs%20Tajikistan.jpg" group-title="AXS | Sportlink", Azerbaijan vs Tajikistan - Friendlies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb2/chunks.m3u8?is_vip=false&token=1790265784-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1ea56d32628c81c6c1754bc7a2d4c285
+
+#EXTINF:-1 tvg-name="Gibraltar vs Sao Tome and Principe - Friendlies @virat10" tvg-id="70863" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Sao%20Tome%20and%20Principe.jpg" group-title="AXS | Sportlink", Gibraltar vs Sao Tome and Principe - Friendlies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb1/chunks.m3u8?is_vip=false&token=1790265801-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4d097135693b832404261a2f364e5681
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
