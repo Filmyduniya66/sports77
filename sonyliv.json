@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:22:19 23-09-2026",
+    "last update time": "09:42:32 23-09-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Islamic Republic of Iran vs India - Women's Kabaddi - 23 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e"
         },
         {
             "event_category": "Sports",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Islamic Republic of Iran vs India - Women's Kabaddi - 23 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e"
         },
         {
             "event_category": "Sports",
@@ -38,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Islamic Republic of Iran vs India - Women's Kabaddi - 23 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e"
         },
         {
             "event_category": "Sports",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Islamic Republic of Iran vs India - Women's Kabaddi - 23 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e"
         },
         {
             "event_category": "Shooting",
@@ -64,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Shooting - 23 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790178737~acl=/*~id=47863297420700451806596010726168~hmac=120bec86dbd5209eb3a7b2589639cf14ac45453dd3482e3588e9fcec53bad728"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790179950~acl=/*~id=53087618733257484169893440074046~hmac=037460279c38aa908490028a54504a92f03bb6ef2b1c96f00cc6208fcf889c1e"
         },
         {
             "event_category": "Weightlifting",
@@ -84,4 +84,4 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024482/1790087785944617_IND_PAN_DDT_Promo_landscape_Thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming 
+            "event_name": "Upcoming - In
