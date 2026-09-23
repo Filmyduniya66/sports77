@@ -2,30 +2,30 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "01:50:14 PM 23-09-2026",
-    "generated_at": "2026-09-23 08:30:13",
+    "source_last_updated": "02:10:26 PM 23-09-2026",
+    "generated_at": "2026-09-23 08:45:37",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 38,
+    "total_matches": 37,
     "live_matches_count": 3,
-    "upcoming_matches_count": 35,
+    "upcoming_matches_count": 34,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249275_ENG",
-            "title": "One Day Cup, 2026/27 [English]",
-            "match_name": "South Australia vs Tasmania [English]",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
+            "match_id": "4249576_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Rourkela Superstars vs Puri Titans [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Puri Titans",
             "status": "LIVE",
-            "startTime": "06:00:00 AM 23-09-2026",
+            "startTime": "02:30:00 PM 23-09-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249275_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
                 }
             ]
         },
@@ -69,19 +69,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249576,
-            "title": "Rourkela Superstars vs Puri Titans (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Puri Titans",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249577,
             "title": "Bhubaneshwar Tigers vs Cuttack Panthers (Odisha T20 League 2026)",
             "match_name": "Bhubaneshwar Tigers vs Cuttack Panthers",
@@ -91,6 +78,19 @@
             "team_2": "Cuttack Panthers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 23-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249525,
+            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
         },
         {
@@ -169,19 +169,6 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249525,
-            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "UPCOMING",
-            "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
         },
         {
@@ -526,20 +513,20 @@
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249275_ENG",
-            "title": "One Day Cup, 2026/27 [English]",
-            "match_name": "South Australia vs Tasmania [English]",
-            "event_name": "One Day Cup, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
+            "match_id": "4249576_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Rourkela Superstars vs Puri Titans [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Puri Titans",
             "status": "LIVE",
-            "startTime": "06:00:00 AM 23-09-2026",
+            "startTime": "02:30:00 PM 23-09-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249275_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
                 }
             ]
         },
@@ -585,19 +572,6 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249576,
-            "title": "Rourkela Superstars vs Puri Titans (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Puri Titans",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249577,
             "title": "Bhubaneshwar Tigers vs Cuttack Panthers (Odisha T20 League 2026)",
             "match_name": "Bhubaneshwar Tigers vs Cuttack Panthers",
@@ -607,6 +581,19 @@
             "team_2": "Cuttack Panthers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 23-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249525,
+            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
         },
         {
@@ -685,19 +672,6 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249525,
-            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "UPCOMING",
-            "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
         },
         {
