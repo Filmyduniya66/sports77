@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "02:10:26 PM 23-09-2026",
-    "generated_at": "2026-09-23 08:45:37",
+    "source_last_updated": "02:40:45 PM 23-09-2026",
+    "generated_at": "2026-09-23 09:15:08",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 37,
-    "live_matches_count": 3,
-    "upcoming_matches_count": 34,
+    "total_matches": 38,
+    "live_matches_count": 2,
+    "upcoming_matches_count": 36,
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,25 +26,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248537_ENG",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Chengdu, China",
-            "status": "LIVE",
-            "startTime": "10:30:00 AM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248537_ENG/english.m3u8"
                 }
             ]
         },
@@ -268,7 +249,7 @@
             "title": "Practice 1 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 1",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 1",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -294,7 +275,7 @@
             "title": "Practice 2 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 2",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 2",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -398,7 +379,7 @@
             "title": "Practice 3 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 3",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 3",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -424,7 +405,7 @@
             "title": "Qualifying vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Qualifying",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Qualifying",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -508,6 +489,32 @@
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 26-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249305,
+            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Aravali Avengers",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Aravali Avengers",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249526,
+            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 26-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -527,25 +534,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248537_ENG",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Chengdu, China",
-            "status": "LIVE",
-            "startTime": "10:30:00 AM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248537_ENG/english.m3u8"
                 }
             ]
         },
@@ -771,7 +759,7 @@
             "title": "Practice 1 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 1",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 1",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -797,7 +785,7 @@
             "title": "Practice 2 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 2",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 2",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -901,7 +889,7 @@
             "title": "Practice 3 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Practice 3",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Practice 3",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -927,7 +915,7 @@
             "title": "Qualifying vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
             "match_name": "Qualifying",
             "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
             "team_1": "Qualifying",
             "team_2": "Baku City Circuit",
             "status": "UPCOMING",
@@ -1010,6 +998,32 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249305,
+            "title": "Yamuna Warriors vs Aravali Avengers (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Aravali Avengers",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249305_53073_YAW_AAV_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Aravali Avengers",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249526,
+            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 26-09-2026",
             "user-agent": null
         }
     ]
