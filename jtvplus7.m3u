@@ -29,11 +29,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat🐐&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790131691~exp=1790135291~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6b182c9ac3a385943381927d12821b7834c6cf71445a55c255abae6ac0f579df
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat🐐&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790135287~exp=1790138887~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=1dd3366ac7f42b340ce82e140de7247dacd5ec76e1cfcf65e291cb9d0ada2c58
 #EXTVLCOPT:http-user-agent=Virat🐐
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790131691~exp=1790135291~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6b182c9ac3a385943381927d12821b7834c6cf71445a55c255abae6ac0f579df
-#EXTHTTP:{"User-Agent": "Virat\ud83d\udc10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790131691~exp=1790135291~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6b182c9ac3a385943381927d12821b7834c6cf71445a55c255abae6ac0f579df"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790135287~exp=1790138887~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=1dd3366ac7f42b340ce82e140de7247dacd5ec76e1cfcf65e291cb9d0ada2c58
+#EXTHTTP:{"User-Agent": "Virat\ud83d\udc10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790135287~exp=1790138887~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=1dd3366ac7f42b340ce82e140de7247dacd5ec76e1cfcf65e291cb9d0ada2c58"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English",Movies Now HD
@@ -1657,11 +1657,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat🐐&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790131695~exp=1790135295~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=755817ecf9052e34ff4c838100c028e730acd407756753fbc99b7b97bc3d3bcf
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat🐐&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790135292~exp=1790138892~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=4d70da10d538643b916ff4f498acaceb5159f382c5927d6fd085aa6b29d4fdae
 #EXTVLCOPT:http-user-agent=Virat🐐
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790131695~exp=1790135295~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=755817ecf9052e34ff4c838100c028e730acd407756753fbc99b7b97bc3d3bcf
-#EXTHTTP:{"User-Agent": "Virat\ud83d\udc10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790131695~exp=1790135295~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=755817ecf9052e34ff4c838100c028e730acd407756753fbc99b7b97bc3d3bcf"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790135292~exp=1790138892~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=4d70da10d538643b916ff4f498acaceb5159f382c5927d6fd085aa6b29d4fdae
+#EXTHTTP:{"User-Agent": "Virat\ud83d\udc10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790135292~exp=1790138892~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=4d70da10d538643b916ff4f498acaceb5159f382c5927d6fd085aa6b29d4fdae"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Malayalam",Kaumudy TV
@@ -6461,11 +6461,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat🐐&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790131699~exp=1790135299~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5630b6df169a7d85ca347a097f4983e43b6db39eb0091d691460ef2b34163260
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat🐐&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790135296~exp=1790138896~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=e939ba8821e40723955372854c4ee58c77005e9f54c72c01c3e3bc7ac7e03bdb
 #EXTVLCOPT:http-user-agent=Virat🐐
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790131699~exp=1790135299~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5630b6df169a7d85ca347a097f4983e43b6db39eb0091d691460ef2b34163260
-#EXTHTTP:{"User-Agent": "Virat\ud83d\udc10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790131699~exp=1790135299~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5630b6df169a7d85ca347a097f4983e43b6db39eb0091d691460ef2b34163260"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790135296~exp=1790138896~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=e939ba8821e40723955372854c4ee58c77005e9f54c72c01c3e3bc7ac7e03bdb
+#EXTHTTP:{"User-Agent": "Virat\ud83d\udc10", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790135296~exp=1790138896~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=e939ba8821e40723955372854c4ee58c77005e9f54c72c01c3e3bc7ac7e03bdb"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="English",RT India
