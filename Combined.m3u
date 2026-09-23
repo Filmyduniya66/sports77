@@ -10,42 +10,28 @@ https://dai-fancode.pages.dev/mumbai/4249577_english_hls_06d1fc08cb19687_1ta-di_
 #EXTINF:-1 tvg-id="4249256" tvg-name="Gulf Giants Development Vs Abu Dhabi Knight Riders Development @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/web-1.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Gulf Giants Development Vs Abu Dhabi Knight Riders Development
 https://dai-fancode.pages.dev/mumbai/4249256_english_hls_00cab967ca77096_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#===== SonyLIV | Sportlink (2 channels) =====
+#EXTINF:-1 tvg-name="Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG] - UEFA International Friendlies @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790026803564502_UEFA_INT_friendly_MD1_Azerbaijan_vs_Tajikstan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG] - UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790220674~acl=/*~id=85179060387723266705612326139719~hmac=5740498530de029f57582056129eac8b0ac281425080af6e456cf953834c52a2
+
+#EXTINF:-1 tvg-name="Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG] - UEFA International Friendlies @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027249384502_UEFA_INT_friendly_MD1_Gibraltar_vs_Sao_Tome_and_Principe_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG] - UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790220674~acl=/*~id=85179060387723266705612326139719~hmac=5740498530de029f57582056129eac8b0ac281425080af6e456cf953834c52a2
+
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:02 PM 23-09-2026
+#LAST_UPDATE:09:32 PM 23-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:19
 
-#===== Prime Video | Sportlink (5 channels) =====
+#===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:32 PM 23-09-2026
+#LAST_UPDATE:09:32 PM 23-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:6
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
-
-#EXTINF:-1 tvg-id="B0HKRZYBLV" tvg-name="Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds; BJK Cup Finals Quarterfinal 2: ESP v. KAZ Rubbers 1, 2 & 3 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.516bdc82-ff8a-4fc6-a88c-a2e1cff056fd/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds; BJK Cup Finals Quarterfinal 2: ESP v. KAZ Rubbers 1, 2 & 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/15/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Predator Pro Billiard Series: Vietnam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HG6GHJNT" tvg-name="Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.081b731a-539c-4b6c-add0-745e213fa3e0/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HCPMGTCX" tvg-name="The Morning Drive @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ad407726-880e-4a66-91e0-cd7b89afef5d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
@@ -54,27 +40,34 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HG6GHJNT" tvg-name="Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.081b731a-539c-4b6c-add0-745e213fa3e0/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+
 #===== AXS | Sportlink (4 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 8:47:30 PM 23-09-2026
-
-#EXTINF:-1 tvg-name="WTA Singapore - WTA Singapore @virat10" tvg-id="74871" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="AXS | Sportlink", WTA Singapore - WTA Singapore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790261259-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-22c46a45f066f2865ae0ba55979ca338
+#last update time: 9:32:26 PM 23-09-2026
 
 #EXTINF:-1 tvg-name="Players Championship 30 - Den Bosch - Players Championship @virat10" tvg-id="66647" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2030%20-%20Den%20Bosch.jpg" group-title="AXS | Sportlink", Players Championship 30 - Den Bosch - Players Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790261269-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d71c73efb2de8c796c399586998c9078
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790263961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-78592542e49dd4f452b01376b71ea218
 
 #EXTINF:-1 tvg-name="Iraq vs Oman - Gulf Cup of Nations @virat10" tvg-id="66183" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Iraq%20vs%20Oman.jpg" group-title="AXS | Sportlink", Iraq vs Oman - Gulf Cup of Nations
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/chunks.m3u8?is_vip=false&token=1790261282-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-94e9d5cb4562e834846959a5b8e29fc4
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/chunks.m3u8?is_vip=false&token=1790263974-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-abd734e6a1f90af291db76985508c871
+
+#EXTINF:-1 tvg-name="WTA Singapore - WTA Singapore @virat10" tvg-id="74871" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="AXS | Sportlink", WTA Singapore - WTA Singapore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790263984-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3df53ba102adbed66d8960a91e420fe9
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
