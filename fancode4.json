@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:05:45 AM 23-09-2026",
-    "generated_at": "2026-09-23 00:40:10",
+    "source_last_updated": "07:16:28 AM 23-09-2026",
+    "generated_at": "2026-09-23 01:50:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 36,
@@ -264,19 +264,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139655,
-            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Qualifying",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249258,
             "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
@@ -287,6 +274,19 @@
             "team_2": "TBC",
             "status": "UPCOMING",
             "startTime": "08:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139655,
+            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -742,19 +742,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139655,
-            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Qualifying",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249258,
             "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
@@ -765,6 +752,19 @@
             "team_2": "TBC",
             "status": "UPCOMING",
             "startTime": "08:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139655,
+            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
