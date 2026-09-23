@@ -782,6 +782,21 @@ https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Women's Final - Weightlifting - 23 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790184805~acl=/*~id=59039069672196108142330568304409~hmac=298c57c4f995e14c62a7d15fd888fc5efbfd597aef65caec4fce17f943513277
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Women's Final - Weightlifting - 23 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790184805~acl=/*~id=59039069672196108142330568304409~hmac=298c57c4f995e14c62a7d15fd888fc5efbfd597aef65caec4fce17f943513277
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Women's Final - Weightlifting - 23 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790184805~acl=/*~id=59039069672196108142330568304409~hmac=298c57c4f995e14c62a7d15fd888fc5efbfd597aef65caec4fce17f943513277
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Women's Final - Weightlifting - 23 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790184805~acl=/*~id=59039069672196108142330568304409~hmac=298c57c4f995e14c62a7d15fd888fc5efbfd597aef65caec4fce17f943513277
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Women's Final - Weightlifting - 23 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790184805~acl=/*~id=59039069672196108142330568304409~hmac=298c57c4f995e14c62a7d15fd888fc5efbfd597aef65caec4fce17f943513277
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024521/1790135789870822_Shooting_Skeet_Women_Individual_Final_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India In Action - Shooting - 23 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX5_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790184805~acl=/*~id=59039069672196108142330568304409~hmac=298c57c4f995e14c62a7d15fd888fc5efbfd597aef65caec4fce17f943513277
+
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - South Australia vs Tasmania
@@ -2195,8 +2210,8 @@ https://onekey.virey40690.workers.dev/mpd/1325
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1332
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790137278~exp=1790140878~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=394c939da697ce457125cee0aa38a72cc2aea033062f9eb95cea745aeba3eb4a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790137278~exp=1790140878~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=394c939da697ce457125cee0aa38a72cc2aea033062f9eb95cea745aeba3eb4a
+#EXTHTTP:{"cookie":"st=1790140979~exp=1790144579~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=dd9fed35fe26cbaa2797c7cc665be0a2da0cc5872fd4d88768ae672f5d833d58","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790140979~exp=1790144579~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=dd9fed35fe26cbaa2797c7cc665be0a2da0cc5872fd4d88768ae672f5d833d58
 
 #EXTINF:-1 tvg-id="1335" group-title="JIO ⭕|English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4846,8 +4861,8 @@ https://onekey.virey40690.workers.dev/mpd/185
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/415
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790137392~exp=1790140992~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=553302565854a688d896698dbbcd16ea6d24f4a86cadf0143630ee9f856e5d8d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790137392~exp=1790140992~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=553302565854a688d896698dbbcd16ea6d24f4a86cadf0143630ee9f856e5d8d
+#EXTHTTP:{"cookie":"st=1790140970~exp=1790144570~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=48780eab9adcdb623a9a1035ae66539acb11f8c8e60f8d5618c2c622531ae86b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790140970~exp=1790144570~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=48780eab9adcdb623a9a1035ae66539acb11f8c8e60f8d5618c2c622531ae86b
 
 #EXTINF:-1 tvg-id="476" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4937,8 +4952,8 @@ https://onekey.virey40690.workers.dev/mpd/1477
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1668
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790136967~exp=1790140567~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=437dcb33da7ab8982fa6b02843ef47ee8de5ede64771422e5806afa2cfc511eb","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790136967~exp=1790140567~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=437dcb33da7ab8982fa6b02843ef47ee8de5ede64771422e5806afa2cfc511eb
+#EXTHTTP:{"cookie":"st=1790140476~exp=1790144076~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=4a60d4b4187bee8ed6854e8372475a56d1513ae1e09b61f73fdcaf423b38fcc4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790140476~exp=1790144076~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=4a60d4b4187bee8ed6854e8372475a56d1513ae1e09b61f73fdcaf423b38fcc4
 
 #EXTINF:-1 tvg-id="1691" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeClassicSD.png",Zee Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
